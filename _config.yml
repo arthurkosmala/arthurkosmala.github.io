@@ -1,0 +1,32 @@
+title: "Arthur Kosmala"
+description: "PhD student developing computational methods for graphs and molecules"
+url: "https://arthurkosmala.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+author:
+  name: "Arthur Kosmala"
+  role: "PhD Student"
+  affiliation: "TUM / Meta"
+  location: "Munich, Germany"
+  email: ""
+  # Drop a portrait at assets/profile.jpg (or .webp/.png) and set the path below
+  # to show it in the hero. Leave empty to render the hero without a photo.
+  photo: "/assets/profile.jpg"
+  github: "arthurkosmala"
+  twitter: "arthurk48147"
+  linkedin: "https://www.linkedin.com/in/arthur-kosmala-9219371b2/"
+  scholar_url: "https://scholar.google.com/citations?user=xJSuIP8AAAAJ&hl=en&oi=ao"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
