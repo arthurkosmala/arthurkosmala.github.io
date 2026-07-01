@@ -13,7 +13,7 @@ title: Home
     <h1>{{ site.author.name }}</h1>
     <p class="subtitle">PhD Student • TUM/Meta</p>
     <p class="lead">
-      I am a PhD student at the <a href="https://www.cs.cit.tum.de/en/daml/home/">TUM Data Analytics and Machine Learning Group</a> (advised by Stephan Günnemann), external research collaborator with the <a href="https://ai.meta.com/research/">Meta FAIR</a> chemistry team and theoretical physicist by training. I get most excited by computational methods that address tangible bottlenecks while being grounded in beautiful algorithmic ideas. Over the past few years, this led me to explore problems in molecular dynamics, graph machine learning and differential privacy.
+      I am a PhD student at the <a href="https://www.cs.cit.tum.de/en/daml/home/">TUM Data Analytics and Machine Learning Group</a> (advised by Stephan Günnemann), external research collaborator with the <a href="https://ai.meta.com/research/">Meta FAIR</a> chemistry team and theoretical physicist by training. I get excited by computational methods that address tangible bottlenecks but are grounded in beautiful algorithmic ideas. So far, this led me to problems in molecular dynamics, graph machine learning and differential privacy.
     </p>
     <div class="cta-row">
       <a class="button" href="{{ site.author.scholar_url }}">Google Scholar</a>
